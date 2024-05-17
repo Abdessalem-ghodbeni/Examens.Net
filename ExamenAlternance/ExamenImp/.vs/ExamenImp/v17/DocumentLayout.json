@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\desktop\\.netexammen\\examenalternance\\examenimp\\examen.applicationcore\\interfaces\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\interfaces\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\desktop\\.netexammen\\examenalternance\\examenimp\\examen.applicationcore\\interfaces\\ifournisseurservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\interfaces\\ifournisseurservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\desktop\\.netexammen\\examenalternance\\examenimp\\examen.applicationcore\\domain\\fournisseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\fournisseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\desktop\\.netexammen\\examenalternance\\examenimp\\examen.applicationcore\\services\\founisseurservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\services\\founisseurservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\Examen.Infrastructure\\Migrations\\20240513125906_abdessalem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Examen.Infrastructure\\Migrations\\20240513125906_abdessalem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337FF8C7-E92A-4917-A9E7-3BED451EE593}|Examen.Infrastructure\\Examen.Infrastructure.csproj|c:\\users\\msi\\desktop\\.netexammen\\examenalternance\\examenimp\\examen.infrastructure\\examencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337FF8C7-E92A-4917-A9E7-3BED451EE593}|Examen.Infrastructure\\Examen.Infrastructure.csproj|solutionrelative:examen.infrastructure\\examencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337FF8C7-E92A-4917-A9E7-3BED451EE593}|Examen.Infrastructure\\Examen.Infrastructure.csproj|c:\\users\\msi\\desktop\\.netexammen\\examenalternance\\examenimp\\examen.infrastructure\\configurations\\produitconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337FF8C7-E92A-4917-A9E7-3BED451EE593}|Examen.Infrastructure\\Examen.Infrastructure.csproj|solutionrelative:examen.infrastructure\\configurations\\produitconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\desktop\\.netexammen\\examenalternance\\examenimp\\examen.applicationcore\\domain\\ctegorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\ctegorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\desktop\\.netexammen\\examenalternance\\examenimp\\examen.applicationcore\\domain\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\desktop\\.netexammen\\examenalternance\\examenimp\\examen.applicationcore\\domain\\biologique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\biologique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\desktop\\.netexammen\\examenalternance\\examenimp\\examen.applicationcore\\domain\\chimique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\chimique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17CB2B7-8C18-473C-9DAA-F7B055FC6F7D}|Examen.WEB\\Examen.WEB.csproj|c:\\users\\msi\\desktop\\.netexammen\\examenalternance\\examenimp\\examen.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17CB2B7-8C18-473C-9DAA-F7B055FC6F7D}|Examen.WEB\\Examen.WEB.csproj|solutionrelative:examen.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\Examen.ApplicationCore\\Interfaces\\Interface1.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Interfaces\\Interface1.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\Examen.ApplicationCore\\Interfaces\\Interface1.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Interfaces\\Interface1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:11:09.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FounisseurServices.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\Examen.ApplicationCore\\Services\\FounisseurServices.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Services\\FounisseurServices.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\Examen.ApplicationCore\\Services\\FounisseurServices.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Services\\FounisseurServices.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:04:13.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFournisseurService.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\Examen.ApplicationCore\\Interfaces\\IFournisseurService.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Interfaces\\IFournisseurService.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\Examen.ApplicationCore\\Interfaces\\IFournisseurService.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Interfaces\\IFournisseurService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:00:46.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240513125906_abdessalem.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\Examen.Infrastructure\\Migrations\\20240513125906_abdessalem.cs",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\Migrations\\20240513125906_abdessalem.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\Examen.Infrastructure\\Migrations\\20240513125906_abdessalem.cs",
+              "RelativeToolTip": "Examen.Infrastructure\\Migrations\\20240513125906_abdessalem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:59:06.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProduitConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\Examen.Infrastructure\\Configurations\\ProduitConfiguration.cs",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\Configurations\\ProduitConfiguration.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\Examen.Infrastructure\\Configurations\\ProduitConfiguration.cs",
+              "RelativeToolTip": "Examen.Infrastructure\\Configurations\\ProduitConfiguration.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:03:16.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Biologique.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\Examen.ApplicationCore\\Domain\\Biologique.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Biologique.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\Examen.ApplicationCore\\Domain\\Biologique.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Biologique.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:46:42.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ctegorie.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\Examen.ApplicationCore\\Domain\\Ctegorie.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Ctegorie.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\Examen.ApplicationCore\\Domain\\Ctegorie.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Ctegorie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:45:58.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExamenContext.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\Examen.Infrastructure\\ExamenContext.cs",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\ExamenContext.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\Examen.Infrastructure\\ExamenContext.cs",
+              "RelativeToolTip": "Examen.Infrastructure\\ExamenContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA0wCAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:36:29.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Chimique.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\Examen.ApplicationCore\\Domain\\Chimique.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Chimique.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\Examen.ApplicationCore\\Domain\\Chimique.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Chimique.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:46:23.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Produit.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\Examen.ApplicationCore\\Domain\\Produit.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Produit.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\Examen.ApplicationCore\\Domain\\Produit.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Produit.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:45:09.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fournisseur.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\Examen.ApplicationCore\\Domain\\Fournisseur.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Fournisseur.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\Examen.ApplicationCore\\Domain\\Fournisseur.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Fournisseur.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:42:54.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\Examen.WEB\\Program.cs",
+              "RelativeDocumentMoniker": "Examen.WEB\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\Examen.WEB\\Program.cs",
+              "RelativeToolTip": "Examen.WEB\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:36:29.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

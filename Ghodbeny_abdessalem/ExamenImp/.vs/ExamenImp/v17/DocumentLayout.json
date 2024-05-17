@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\desktop\\.netexammen\\ghodbeny_abdessalem\\examenimp\\examen.applicationcore\\services\\infermierservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\services\\infermierservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\desktop\\.netexammen\\ghodbeny_abdessalem\\examenimp\\examen.applicationcore\\services\\bilanservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\services\\bilanservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337FF8C7-E92A-4917-A9E7-3BED451EE593}|Examen.Infrastructure\\Examen.Infrastructure.csproj|c:\\users\\msi\\desktop\\.netexammen\\ghodbeny_abdessalem\\examenimp\\examen.infrastructure\\configurations\\bilanconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337FF8C7-E92A-4917-A9E7-3BED451EE593}|Examen.Infrastructure\\Examen.Infrastructure.csproj|solutionrelative:examen.infrastructure\\configurations\\bilanconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337FF8C7-E92A-4917-A9E7-3BED451EE593}|Examen.Infrastructure\\Examen.Infrastructure.csproj|c:\\users\\msi\\desktop\\.netexammen\\ghodbeny_abdessalem\\examenimp\\examen.infrastructure\\examencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337FF8C7-E92A-4917-A9E7-3BED451EE593}|Examen.Infrastructure\\Examen.Infrastructure.csproj|solutionrelative:examen.infrastructure\\examencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\desktop\\.netexammen\\ghodbeny_abdessalem\\examenimp\\examen.applicationcore\\interfaces\\bilaninterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\interfaces\\bilaninterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\desktop\\.netexammen\\ghodbeny_abdessalem\\examenimp\\examen.applicationcore\\domain\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\desktop\\.netexammen\\ghodbeny_abdessalem\\examenimp\\examen.applicationcore\\domain\\bilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\bilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\desktop\\.netexammen\\ghodbeny_abdessalem\\examenimp\\examen.applicationcore\\domain\\infirmier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\infirmier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\desktop\\.netexammen\\ghodbeny_abdessalem\\examenimp\\examen.applicationcore\\domain\\specialite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\specialite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\desktop\\.netexammen\\ghodbeny_abdessalem\\examenimp\\examen.applicationcore\\interfaces\\iifermiereservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\interfaces\\iifermiereservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17CB2B7-8C18-473C-9DAA-F7B055FC6F7D}|Examen.WEB\\Examen.WEB.csproj|c:\\users\\msi\\desktop\\.netexammen\\ghodbeny_abdessalem\\examenimp\\examen.web\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17CB2B7-8C18-473C-9DAA-F7B055FC6F7D}|Examen.WEB\\Examen.WEB.csproj|solutionrelative:examen.web\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17CB2B7-8C18-473C-9DAA-F7B055FC6F7D}|Examen.WEB\\Examen.WEB.csproj|c:\\users\\msi\\desktop\\.netexammen\\ghodbeny_abdessalem\\examenimp\\examen.web\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17CB2B7-8C18-473C-9DAA-F7B055FC6F7D}|Examen.WEB\\Examen.WEB.csproj|solutionrelative:examen.web\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17CB2B7-8C18-473C-9DAA-F7B055FC6F7D}|Examen.WEB\\Examen.WEB.csproj|c:\\users\\msi\\desktop\\.netexammen\\ghodbeny_abdessalem\\examenimp\\examen.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17CB2B7-8C18-473C-9DAA-F7B055FC6F7D}|Examen.WEB\\Examen.WEB.csproj|solutionrelative:examen.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\desktop\\.netexammen\\ghodbeny_abdessalem\\examenimp\\examen.applicationcore\\services\\patientservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\services\\patientservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\desktop\\.netexammen\\ghodbeny_abdessalem\\examenimp\\examen.applicationcore\\interfaces\\patientinterfacesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\interfaces\\patientinterfacesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17CB2B7-8C18-473C-9DAA-F7B055FC6F7D}|Examen.WEB\\Examen.WEB.csproj|c:\\users\\msi\\desktop\\.netexammen\\ghodbeny_abdessalem\\examenimp\\examen.web\\views\\infirmier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17CB2B7-8C18-473C-9DAA-F7B055FC6F7D}|Examen.WEB\\Examen.WEB.csproj|solutionrelative:examen.web\\views\\infirmier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17CB2B7-8C18-473C-9DAA-F7B055FC6F7D}|Examen.WEB\\Examen.WEB.csproj|c:\\users\\msi\\desktop\\.netexammen\\ghodbeny_abdessalem\\examenimp\\examen.web\\controllers\\infirmiercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17CB2B7-8C18-473C-9DAA-F7B055FC6F7D}|Examen.WEB\\Examen.WEB.csproj|solutionrelative:examen.web\\controllers\\infirmiercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17CB2B7-8C18-473C-9DAA-F7B055FC6F7D}|Examen.WEB\\Examen.WEB.csproj|c:\\users\\msi\\desktop\\.netexammen\\ghodbeny_abdessalem\\examenimp\\examen.web\\views\\infirmier\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17CB2B7-8C18-473C-9DAA-F7B055FC6F7D}|Examen.WEB\\Examen.WEB.csproj|solutionrelative:examen.web\\views\\infirmier\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\desktop\\.netexammen\\ghodbeny_abdessalem\\examenimp\\examen.applicationcore\\domain\\laboratoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\laboratoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\desktop\\.netexammen\\ghodbeny_abdessalem\\examenimp\\examen.applicationcore\\services\\laboratoireservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\services\\laboratoireservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\desktop\\.netexammen\\ghodbeny_abdessalem\\examenimp\\examen.applicationcore\\interfaces\\ilaboratoireservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\interfaces\\ilaboratoireservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BilanConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.Infrastructure\\Configurations\\BilanConfiguration.cs",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\Configurations\\BilanConfiguration.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.Infrastructure\\Configurations\\BilanConfiguration.cs",
+              "RelativeToolTip": "Examen.Infrastructure\\Configurations\\BilanConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:44:53.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BilanServices.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.ApplicationCore\\Services\\BilanServices.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Services\\BilanServices.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.ApplicationCore\\Services\\BilanServices.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Services\\BilanServices.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:30:21.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BilanInterface.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.ApplicationCore\\Interfaces\\BilanInterface.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Interfaces\\BilanInterface.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.ApplicationCore\\Interfaces\\BilanInterface.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Interfaces\\BilanInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:29:46.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bilan.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.ApplicationCore\\Domain\\Bilan.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Bilan.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.ApplicationCore\\Domain\\Bilan.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Bilan.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:26:11.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Specialite.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.ApplicationCore\\Domain\\Specialite.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Specialite.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.ApplicationCore\\Domain\\Specialite.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Specialite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:17:31.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.WEB\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Examen.WEB\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.WEB\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Examen.WEB\\Controllers\\PatientController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:06:48.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExamenContext.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.Infrastructure\\ExamenContext.cs",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\ExamenContext.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.Infrastructure\\ExamenContext.cs",
+              "RelativeToolTip": "Examen.Infrastructure\\ExamenContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwCQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:57:02.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Infirmier.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.ApplicationCore\\Domain\\Infirmier.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Infirmier.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.ApplicationCore\\Domain\\Infirmier.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Infirmier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:56:46.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.WEB\\Views\\Infirmier\\Create.cshtml",
+              "RelativeDocumentMoniker": "Examen.WEB\\Views\\Infirmier\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.WEB\\Views\\Infirmier\\Create.cshtml",
+              "RelativeToolTip": "Examen.WEB\\Views\\Infirmier\\Create.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwBoAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T07:54:53.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Laboratoire.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.ApplicationCore\\Domain\\Laboratoire.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Laboratoire.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.ApplicationCore\\Domain\\Laboratoire.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Laboratoire.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:53:33.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InfermierServies.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.ApplicationCore\\Services\\InfermierServies.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Services\\InfermierServies.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.ApplicationCore\\Services\\InfermierServies.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Services\\InfermierServies.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:48:08.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.WEB\\Program.cs",
+              "RelativeDocumentMoniker": "Examen.WEB\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.WEB\\Program.cs",
+              "RelativeToolTip": "Examen.WEB\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:00:13.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.WEB\\Views\\Infirmier\\Index.cshtml",
+              "RelativeDocumentMoniker": "Examen.WEB\\Views\\Infirmier\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.WEB\\Views\\Infirmier\\Index.cshtml",
+              "RelativeToolTip": "Examen.WEB\\Views\\Infirmier\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T08:02:43.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InfirmierController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.WEB\\Controllers\\InfirmierController.cs",
+              "RelativeDocumentMoniker": "Examen.WEB\\Controllers\\InfirmierController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.WEB\\Controllers\\InfirmierController.cs",
+              "RelativeToolTip": "Examen.WEB\\Controllers\\InfirmierController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:51:40.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.ApplicationCore\\Domain\\Patient.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Patient.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.ApplicationCore\\Domain\\Patient.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Patient.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:46:34.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IIfermiereServices.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.ApplicationCore\\Interfaces\\IIfermiereServices.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Interfaces\\IIfermiereServices.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.ApplicationCore\\Interfaces\\IIfermiereServices.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Interfaces\\IIfermiereServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:47:10.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PatientInterfacesServices.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.ApplicationCore\\Interfaces\\PatientInterfacesServices.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Interfaces\\PatientInterfacesServices.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.ApplicationCore\\Interfaces\\PatientInterfacesServices.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Interfaces\\PatientInterfacesServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:05:10.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PatientServices.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.ApplicationCore\\Services\\PatientServices.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Services\\PatientServices.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.ApplicationCore\\Services\\PatientServices.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Services\\PatientServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:05:43.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.WEB\\Views\\Patient\\Index.cshtml",
+              "RelativeDocumentMoniker": "Examen.WEB\\Views\\Patient\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.WEB\\Views\\Patient\\Index.cshtml",
+              "RelativeToolTip": "Examen.WEB\\Views\\Patient\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T08:08:14.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LaboratoireServices.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.ApplicationCore\\Services\\LaboratoireServices.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Services\\LaboratoireServices.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.ApplicationCore\\Services\\LaboratoireServices.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Services\\LaboratoireServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:50:35.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ILaboratoireServices.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.ApplicationCore\\Interfaces\\ILaboratoireServices.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Interfaces\\ILaboratoireServices.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\Ghodbeny_abdessalem\\ExamenImp\\Examen.ApplicationCore\\Interfaces\\ILaboratoireServices.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Interfaces\\ILaboratoireServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:49:49.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

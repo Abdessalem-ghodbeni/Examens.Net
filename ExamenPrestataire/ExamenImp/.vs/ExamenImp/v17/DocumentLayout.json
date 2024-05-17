@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\.netExammen\\projetEmpty\\ExamenImp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\desktop\\.netexammen\\projetempty\\examenimp\\examen.applicationcore\\services\\prestationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\services\\prestationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\desktop\\.netexammen\\projetempty\\examenimp\\examen.applicationcore\\interfaces\\iprestationservic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\interfaces\\iprestationservic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\desktop\\.netexammen\\projetempty\\examenimp\\examen.applicationcore\\domain\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\desktop\\.netexammen\\projetempty\\examenimp\\examen.applicationcore\\services\\serviceprestataire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\services\\serviceprestataire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\msi\\desktop\\.netexammen\\projetempty\\examenimp\\examen.applicationcore\\interfaces\\iserviceprestataire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE00CC61-32E0-4A0B-9F53-0C640734F89C}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\interfaces\\iserviceprestataire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17CB2B7-8C18-473C-9DAA-F7B055FC6F7D}|Examen.WEB\\Examen.WEB.csproj|c:\\users\\msi\\desktop\\.netexammen\\projetempty\\examenimp\\examen.web\\views\\prestation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17CB2B7-8C18-473C-9DAA-F7B055FC6F7D}|Examen.WEB\\Examen.WEB.csproj|solutionrelative:examen.web\\views\\prestation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17CB2B7-8C18-473C-9DAA-F7B055FC6F7D}|Examen.WEB\\Examen.WEB.csproj|c:\\users\\msi\\desktop\\.netexammen\\projetempty\\examenimp\\examen.web\\controllers\\prestationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17CB2B7-8C18-473C-9DAA-F7B055FC6F7D}|Examen.WEB\\Examen.WEB.csproj|solutionrelative:examen.web\\controllers\\prestationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17CB2B7-8C18-473C-9DAA-F7B055FC6F7D}|Examen.WEB\\Examen.WEB.csproj|c:\\users\\msi\\desktop\\.netexammen\\projetempty\\examenimp\\examen.web\\views\\prestataire\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17CB2B7-8C18-473C-9DAA-F7B055FC6F7D}|Examen.WEB\\Examen.WEB.csproj|solutionrelative:examen.web\\views\\prestataire\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17CB2B7-8C18-473C-9DAA-F7B055FC6F7D}|Examen.WEB\\Examen.WEB.csproj|c:\\users\\msi\\desktop\\.netexammen\\projetempty\\examenimp\\examen.web\\controllers\\prestatairecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17CB2B7-8C18-473C-9DAA-F7B055FC6F7D}|Examen.WEB\\Examen.WEB.csproj|solutionrelative:examen.web\\controllers\\prestatairecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17CB2B7-8C18-473C-9DAA-F7B055FC6F7D}|Examen.WEB\\Examen.WEB.csproj|c:\\users\\msi\\desktop\\.netexammen\\projetempty\\examenimp\\examen.web\\views\\prestation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E17CB2B7-8C18-473C-9DAA-F7B055FC6F7D}|Examen.WEB\\Examen.WEB.csproj|solutionrelative:examen.web\\views\\prestation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Type.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\projetEmpty\\ExamenImp\\Examen.ApplicationCore\\Domain\\Type.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Type.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\projetEmpty\\ExamenImp\\Examen.ApplicationCore\\Domain\\Type.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Type.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:30:23.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrestationsService.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\projetEmpty\\ExamenImp\\Examen.ApplicationCore\\Services\\PrestationsService.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Services\\PrestationsService.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\projetEmpty\\ExamenImp\\Examen.ApplicationCore\\Services\\PrestationsService.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Services\\PrestationsService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:24:39.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPrestationServic.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\projetEmpty\\ExamenImp\\Examen.ApplicationCore\\Interfaces\\IPrestationServic.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Interfaces\\IPrestationServic.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\projetEmpty\\ExamenImp\\Examen.ApplicationCore\\Interfaces\\IPrestationServic.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Interfaces\\IPrestationServic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:05:30.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicePrestataire.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\projetEmpty\\ExamenImp\\Examen.ApplicationCore\\Services\\ServicePrestataire.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Services\\ServicePrestataire.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\projetEmpty\\ExamenImp\\Examen.ApplicationCore\\Services\\ServicePrestataire.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Services\\ServicePrestataire.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:07:08.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IServicePrestataire.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\projetEmpty\\ExamenImp\\Examen.ApplicationCore\\Interfaces\\IServicePrestataire.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Interfaces\\IServicePrestataire.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\projetEmpty\\ExamenImp\\Examen.ApplicationCore\\Interfaces\\IServicePrestataire.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Interfaces\\IServicePrestataire.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:05:31.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\projetEmpty\\ExamenImp\\Examen.WEB\\Views\\Prestation\\Index.cshtml",
+              "RelativeDocumentMoniker": "Examen.WEB\\Views\\Prestation\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\projetEmpty\\ExamenImp\\Examen.WEB\\Views\\Prestation\\Index.cshtml",
+              "RelativeToolTip": "Examen.WEB\\Views\\Prestation\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T10:56:55.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrestationController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\projetEmpty\\ExamenImp\\Examen.WEB\\Controllers\\PrestationController.cs",
+              "RelativeDocumentMoniker": "Examen.WEB\\Controllers\\PrestationController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\projetEmpty\\ExamenImp\\Examen.WEB\\Controllers\\PrestationController.cs",
+              "RelativeToolTip": "Examen.WEB\\Controllers\\PrestationController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:55:05.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\projetEmpty\\ExamenImp\\Examen.WEB\\Views\\Prestataire\\Index.cshtml",
+              "RelativeDocumentMoniker": "Examen.WEB\\Views\\Prestataire\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\projetEmpty\\ExamenImp\\Examen.WEB\\Views\\Prestataire\\Index.cshtml",
+              "RelativeToolTip": "Examen.WEB\\Views\\Prestataire\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T10:51:39.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PrestataireController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\projetEmpty\\ExamenImp\\Examen.WEB\\Controllers\\PrestataireController.cs",
+              "RelativeDocumentMoniker": "Examen.WEB\\Controllers\\PrestataireController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\projetEmpty\\ExamenImp\\Examen.WEB\\Controllers\\PrestataireController.cs",
+              "RelativeToolTip": "Examen.WEB\\Controllers\\PrestataireController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:51:28.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\.netExammen\\projetEmpty\\ExamenImp\\Examen.WEB\\Views\\Prestation\\Create.cshtml",
+              "RelativeDocumentMoniker": "Examen.WEB\\Views\\Prestation\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\.netExammen\\projetEmpty\\ExamenImp\\Examen.WEB\\Views\\Prestation\\Create.cshtml",
+              "RelativeToolTip": "Examen.WEB\\Views\\Prestation\\Create.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T10:44:03.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FvIMZkOBi36AvkHGUAt/FWKsg7hNZWxAyjzMWVr/NRk1uzHvVNt0W0LmBpGDvIksNaQ8hWWI/AjzMZmwTHg89w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSI\\Desktop\\.netExammen\\ExamenAlternance\\ExamenImp\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.27\\microsoft.entityframeworkcore.abstractions.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
